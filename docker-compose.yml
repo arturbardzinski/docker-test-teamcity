@@ -17,3 +17,4 @@ services:
     volumes:
       - ./data/teamcity_agent/conf:/data/teamcity_agent/conf
       - /var/run/docker.sock:/var/run/docker.sock
+      - ./data/buildagent:/opt/buildagent
