@@ -1,3 +1,9 @@
 {
-  "recommendations": ["ms-python.python", "ms-python.pylance"]
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.pylance",
+    "ms-python.vscode-python-envs",
+    "charliermarsh.ruff",
+    "tamasfe.even-better-toml"
+  ]
 }
